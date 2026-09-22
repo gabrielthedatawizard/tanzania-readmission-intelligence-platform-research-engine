@@ -1,4 +1,4 @@
-# TRIP — Tanzania Readmission Intelligence Platform
+# TRIP - Tanzania Readmission Intelligence Platform
 
 TRIP is a health data science research project focused on hospital readmission prediction, clinical analytics, and decision support.
 
