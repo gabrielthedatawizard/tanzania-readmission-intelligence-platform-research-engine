@@ -57,7 +57,114 @@ The project aims to explore how statistical analysis, machine learning, and heal
 
 Current milestone:
 
-**M0 — Research Foundation & Reproducible Project Setup**
+**M1 — Research Protocol and Dataset Understanding**
+
+## Research Roadmap
+
+### M0 — Repository Foundation ✅
+
+- Repository structure
+- Project scope
+- Git configuration
+
+### M1 — Research Protocol 🔄
+
+- Research questions
+- Study population
+- Outcome definition
+- Predictor strategy
+- Evaluation methodology
+- Ethical framework
+- Dataset documentation
+
+### M2 — Data Acquisition & Data Dictionary
+
+- acquire official UCI dataset
+- verify dataset integrity
+- document every variable
+- inspect patient identifiers
+- inspect missing-value codes
+- create data dictionary
+
+### M3 — Exploratory Data Analysis
+
+- Python EDA
+- R EDA
+- missingness analysis
+- outcome distribution
+- demographic analysis
+- utilization analysis
+- diagnosis analysis
+
+### M4 — Cohort & Preprocessing
+
+- exclusion criteria
+- patient-level splitting
+- encoding
+- missing-data handling
+- feature engineering
+- leakage checks
+
+### M5 — Statistical Modelling
+
+- univariable analyses
+- logistic regression
+- effect estimates
+- uncertainty
+- calibration
+
+### M6 — Machine Learning
+
+- Random Forest
+- XGBoost
+- hyperparameter tuning
+- model comparison
+
+### M7 — Model Evaluation
+
+- AUROC
+- PR-AUC
+- sensitivity
+- specificity
+- Brier score
+- calibration
+- threshold analysis
+
+### M8 — Explainability & Fairness
+
+- SHAP
+- global explanations
+- patient explanations
+- subgroup analysis
+
+### M9 — TRIP Application Integration
+
+- prediction API
+- model packaging
+- input validation
+- application integration
+
+### M10 — Dashboard
+
+- patient intelligence
+- hospital analytics
+- population analytics
+
+### M11 — Tanzania Health Data Layer
+
+- WHO indicators
+- Ministry of Health data
+- DHIS2/HMIS exploration
+- DHS analysis
+- digital-health context
+
+### M12 — Tanzania Validation Roadmap
+
+- local hospital data requirements
+- ethics
+- partnerships
+- external validation
+- recalibration/retraining strategy
 
 ## Disclaimer
 
